@@ -17,7 +17,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Email Address Manager</title>
+    <title>Email Address Manager - a different Version</title>
 </head>
 <body >
     <h1>Email Address Manager - Add New Email</h1>
